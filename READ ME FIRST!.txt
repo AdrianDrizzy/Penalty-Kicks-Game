@@ -1,0 +1,11 @@
+I CREATED THIS GAME USING HTML, CSS AND JAVASCRIPT.
+
+Please run the index HTML file.
+
+First mouse-click is for the vertical positioning of the ball
+
+Second mouse-click is for the horizontal positioning of the ball
+
+Third mouse-click is for the strength of kicking the ball
+
+The user is given 5 penalties.
